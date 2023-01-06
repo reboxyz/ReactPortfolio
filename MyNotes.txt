@@ -1,0 +1,25 @@
+Build a Responsive React Portfolio Website - Tailwind, Framer-Motion, & React Hook Form
+
+In this tutorial, we will build and deploy a complete Responsive React Portfolio Website. We will be using React, Tailwind CSS, Framer Motion and React Hook Form with Form Submit to build this fully build application.
+
+Tailwind Css: https://tailwindcss.com/docs/installa...
+Form Submit: https://formsubmit.co/
+React Anchor Link Smooth Scroll: https://github.com/mauricevancooten/r...
+Framer Motion: https://www.framer.com/docs/
+Google Fonts: https://fonts.google.com/
+
+Code
+completed code: https://github.com/ed-roh/react-portf...
+location of image assets (you'll have to download the entire repo to get the images): https://github.com/ed-roh/react-portf...
+
+Commands:
+npx create-react-app react-portfolio
+npm i framer-motion react-anchor-link-smooth-scroll 
+
+
+Plugins: Tailwind CSS 
+npm install -D tailwindcss
+npx tailwindcss init
+
+npx tailwindcss -i ./src/index.css -o ./public/output.css --watch
+
